@@ -10,7 +10,10 @@ HTML, CSS e JavaScript puros, servidos com [Vite](https://vitejs.dev/).
 npm install
 npm run dev      # http://localhost:8080
 npm run build    # gera dist/ para publicar
+npm run deploy   # publica no GitHub Pages (branch gh-pages)
 ```
+
+No ar: https://thsantosmercadolivre-lab.github.io/frutas-maromba-site/
 
 ## Onde mexer
 
